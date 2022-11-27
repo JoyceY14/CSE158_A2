@@ -2,7 +2,8 @@
 
 Data can be accessed by with [this link](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions)
 
-Repository File Structure
+### Repository File Structure
+
 ```
 ├── README.md
 ├── imgs
