@@ -1,4 +1,4 @@
-# Welcomed to CSE-158, A2 Project Repo
+# Welcome to CSE-158, A2 Project Repository
 
 Data can be accessed by with [this link](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions)
 
