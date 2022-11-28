@@ -11,7 +11,7 @@ Data can be accessed by with [this link](https://www.kaggle.com/datasets/shuyang
 │   ├── recipes_counts.png
 │   └── user_counts.png
 ├── notebooks
-│   ├── CSE158_A2_Food.ipynb
+│   ├── baseline_model.ipynb
 │   └── Food_EDA.ipynb
 └── src
 ```
